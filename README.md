@@ -1,6 +1,7 @@
 
 The goals / steps of this project are the following:
 
+![png](steps_example/1.png)
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 * Apply a distortion correction to raw images.
 * Apply a perspective transform to rectify binary image ("birds-eye view").
