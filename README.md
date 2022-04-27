@@ -18,7 +18,7 @@ The `challenge_video.mp4` video is an extra (and optional) challenge for you if 
 If you're feeling ambitious (again, totally optional though), don't stop there!  We encourage you to go out and take video of your own, calibrate your camera and show us how you would implement this project from scratch!
 ## Steps on a frame
 ![png](steps_example/1.png)
-*
+***********************
 ![png](steps_example/2.png)
 *
 ![png](steps_example/3.png)
