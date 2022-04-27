@@ -1,7 +1,7 @@
 
 The goals / steps of this project are the following:
 
-![png](steps_example/1.png)
+
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 * Apply a distortion correction to raw images.
 * Apply a perspective transform to rectify binary image ("birds-eye view").
@@ -16,6 +16,14 @@ The images for camera calibration are stored in the folder called `camera_cal`. 
 The `challenge_video.mp4` video is an extra (and optional) challenge for you if you want to test your pipeline under somewhat trickier conditions.  The `harder_challenge.mp4` video is another optional challenge and is brutal!
 
 If you're feeling ambitious (again, totally optional though), don't stop there!  We encourage you to go out and take video of your own, calibrate your camera and show us how you would implement this project from scratch!
+## Seps on a frame
+![png](steps_example/1.png)
+![png](steps_example/2.png)
+![png](steps_example/3.png)
+![png](steps_example/4.png)
+![png](steps_example/5.png)
+![png](steps_example/6.png)
+![png](steps_example/7.png)
 
 ## Usage:
 
