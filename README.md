@@ -19,7 +19,8 @@ If you're feeling ambitious (again, totally optional though), don't stop there! 
 
 ## Usage:
 
-...python
+...
+   python
 Lane Lines Detection pipeline
 How to use ::
 1-run main.py file via anaconda cmd
