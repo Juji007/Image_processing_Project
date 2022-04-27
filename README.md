@@ -20,15 +20,15 @@ If you're feeling ambitious (again, totally optional though), don't stop there! 
 ![png](steps_example/1.png)
 ***********************
 ![png](steps_example/2.png)
-*
+******************
 ![png](steps_example/3.png)
-*
+******************
 ![png](steps_example/4.png)
-*
+******************
 ![png](steps_example/5.png)
-*
+******************
 ![png](steps_example/6.png)
-*
+******************
 ![png](steps_example/7.png)
 
 ## Usage:
