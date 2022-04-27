@@ -19,7 +19,7 @@ If you're feeling ambitious (again, totally optional though), don't stop there! 
 
 ## Usage:
 
-"""
+...python
 Lane Lines Detection pipeline
 How to use ::
 1-run main.py file via anaconda cmd
@@ -38,6 +38,6 @@ python main.py C:/test.jpg D:/out.jpg
 
 Ex: for video input
 python main.py --video C:/test.mp4 D:/out.mp4                
-"""
+...
 
 
